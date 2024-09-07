@@ -3,7 +3,7 @@
 ## 🌐 Language
 
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
-[![ja](https://img.shields.io/badge/lang-en-blue.svg)](README.ja.md)
+[![ja](https://img.shields.io/badge/lang-ja-blue.svg)](README.ja.md)
 
 ## Unity Version
 
